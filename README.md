@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurabhkumar12-byte
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking for guidance on web dev
+- 👀 I’m interested in app dev
+- 🌱 I’m currently working with javascript/kotlin
+- 💞️ I’m looking for suggestions/discussions on Android/React Native dev
 - 📫 How to reach me saurabhsingh4778698@gmail.com
 
 <!---
