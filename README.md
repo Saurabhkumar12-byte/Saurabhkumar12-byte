@@ -13,7 +13,6 @@ I'm a passionate software developer specializing in React Native and JavaScript,
 ## Professional Experience
 
 - **Software Developer** at Futuristic Labs  
-  *Dates of Employment*  
   - Developed cutting-edge mobile applications using React Native.
   - Collaborated with cross-functional teams to deliver seamless user experiences.
   - Integrated analytics, performance monitoring, and secure data storage into mobile applications.
