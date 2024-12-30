@@ -4,19 +4,19 @@
 
 ## About Me
 
-I'm a passionate software developer specializing in React Native and JavaScript, with a strong focus on hybrid app development. I enjoy creating seamless and efficient mobile applications that provide exceptional user experiences.
+I'm a passionate software developer specializing in React Native and JavaScript, with a strong focus on hybrid app development. My experience spans creating dynamic, user-centric applications that provide excellent functionality and performance.
 
 - 🌱 **Currently Learning:** Advanced React Native techniques and performance optimization.
-- 💬 **Open to Discussions:** Hybrid app development, JavaScript frameworks, and mobile UI/UX design.
+- 💬 **Open to Discussions:** Hybrid app development, state management, and mobile UI/UX design.
 - 📫 **How to Reach Me:** [saurabhsingh4778698@gmail.com](mailto:saurabhsingh4778698@gmail.com)
 
 ## Professional Experience
 
-- **Software Developer** at [Your Company Name]  
+- **Software Developer** at Futuristic Labs  
   *Dates of Employment*  
-  - Developed and maintained cross-platform mobile applications using React Native.
-  - Collaborated with design and backend teams to deliver integrated solutions.
-  - Implemented state management and optimized app performance for better user engagement.
+  - Developed cutting-edge mobile applications using React Native.
+  - Collaborated with cross-functional teams to deliver seamless user experiences.
+  - Integrated analytics, performance monitoring, and secure data storage into mobile applications.
 
 ## Connect with Me
 
@@ -45,13 +45,16 @@ I'm a passionate software developer specializing in React Native and JavaScript,
 
 ## Featured Projects
 
-Here are some of the projects I've been working on:
+Here are some of my key projects that highlight my expertise in React Native and app development:
 
-- [**React Native Khatabook App**](https://github.com/Saurabhkumar12-byte/reactnative-khatabook-app): A comprehensive bookkeeping app developed using React Native, facilitating efficient financial record management for small businesses.
+- [**Webskitters Ecom App**](https://github.com/Saurabhkumar12-byte/Webskitters_Ecom_App):  
+  A feature-rich e-commerce application developed using React Native, designed to provide a seamless shopping experience for users with dynamic product listings, cart functionality, and secure checkout.
 
-- [**Redux App**](https://github.com/Saurabhkumar12-byte/redux-app): A sample application demonstrating state management using Redux in JavaScript, showcasing best practices in building scalable applications.
+- [**Futuristic Labs Recipe Chatbot**](https://github.com/Saurabhkumar12-byte/Futuristic_Labs_RecipeChatbot):  
+  An intelligent chatbot integrated into a recipe application to assist users in discovering and scaling recipes. Built using React Native and incorporating AI-driven conversational flows.
 
-- [**First React App**](https://github.com/Saurabhkumar12-byte/firstreactapp): My initial venture into React Native, developing a calculator app to understand the fundamentals of React Native and mobile app development.
+- [**Originbluy Media Storage App**](https://github.com/Saurabhkumar12-byte/Originbluy_media_storage_app):  
+  A cross-platform media storage solution developed with React Native, allowing users to securely upload, manage, and retrieve media files on the go.
 
 Feel free to explore these repositories to see my work in action!
 
