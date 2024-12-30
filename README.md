@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate software developer specializing in React Native and JavaScript, with a strong focus on hybrid app development. My experience spans creating dynamic, user-centric applications that provide excellent functionality and performance.
+I'm a passionate software developer specializing in React Native and JavaScript, with a strong focus on hybrid app development. My experience includes building dynamic, user-friendly applications with a strong emphasis on performance and scalability.
 
 - 🌱 **Currently Learning:** Advanced React Native techniques and performance optimization.
 - 💬 **Open to Discussions:** Hybrid app development, state management, and mobile UI/UX design.
@@ -13,6 +13,7 @@ I'm a passionate software developer specializing in React Native and JavaScript,
 ## Professional Experience
 
 - **Software Developer** at Futuristic Labs  
+  *Dates of Employment*  
   - Developed cutting-edge mobile applications using React Native.
   - Collaborated with cross-functional teams to deliver seamless user experiences.
   - Integrated analytics, performance monitoring, and secure data storage into mobile applications.
@@ -42,21 +43,37 @@ I'm a passionate software developer specializing in React Native and JavaScript,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumar12-byte&layout=compact&theme=radical)
 
-## Featured Projects
+## Featured Project: Futuristic Labs Recipe Chatbot
 
-Here are some of my key projects that highlight my expertise in React Native and app development:
+### [Futuristic Labs Recipe Chatbot](https://github.com/Saurabhkumar12-byte/Futuristic_Labs_RecipeChatbot)
+
+This project stands out as a comprehensive and feature-rich application, showcasing my expertise in React Native and hybrid app development. Here's what makes it special:
+
+- **Description:**  
+  An intelligent chatbot integrated into a recipe application to assist users in discovering, scaling, and preparing recipes. The app uses AI-driven conversational flows to enhance user engagement.
+
+- **Key Features:**  
+  - AI-powered chatbot for recipe discovery.  
+  - Recipe scaling with precise ingredient calculations.  
+  - User-friendly interface designed for smooth navigation.
+
+- **Technologies Used:**  
+  - React Native  
+  - Firebase  
+  - Redux  
+
+Explore the repository to learn more about the app's architecture and functionality!
+
+---
+
+## Other Projects
 
 - [**Webskitters Ecom App**](https://github.com/Saurabhkumar12-byte/Webskitters_Ecom_App):  
-  A feature-rich e-commerce application developed using React Native, designed to provide a seamless shopping experience for users with dynamic product listings, cart functionality, and secure checkout.
-
-- [**Futuristic Labs Recipe Chatbot**](https://github.com/Saurabhkumar12-byte/Futuristic_Labs_RecipeChatbot):  
-  An intelligent chatbot integrated into a recipe application to assist users in discovering and scaling recipes. Built using React Native and incorporating AI-driven conversational flows.
+  A feature-rich e-commerce app designed with React Native, offering dynamic product listings, cart management, and secure payment integrations.
 
 - [**Originbluy Media Storage App**](https://github.com/Saurabhkumar12-byte/Originbluy_media_storage_app):  
-  A cross-platform media storage solution developed with React Native, allowing users to securely upload, manage, and retrieve media files on the go.
+  A cross-platform media storage solution that allows users to securely upload, manage, and retrieve media files on the go.
 
-Feel free to explore these repositories to see my work in action!
+---
 
-## Let's Connect!
-
-I'm always open to collaborating on projects and discussing new ideas. Don't hesitate to reach out through any of the platforms above.
+Feel free to explore my repositories and connect with me for collaboration opportunities!
